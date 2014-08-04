@@ -2,7 +2,7 @@
 
 backup_number=6
 base_name="backup.gz"
-backup_path="/opt/pgbackup/"
+backup_path="/opt/backup_folder/"
 
 cd $backup_path
 
